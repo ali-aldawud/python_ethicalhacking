@@ -1,2 +1,2 @@
 # python_ethicalhacking
-python 3 code for z Security course from Zaid Sabih
+2020 python 3 code update for learn-python-and-ethical-hacking-from-scratch by Zaid Sabih form z Security

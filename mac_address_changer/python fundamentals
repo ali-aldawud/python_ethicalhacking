@@ -73,23 +73,3 @@ Python Fundamentals
                         6:'Saturday'
                     }
                 return switcher.get(i,"Invalid day of week")
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
